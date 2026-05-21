@@ -1,2 +1,2 @@
 # LEETCODE
-My LeetCode Solutions in C++(primary) and java
+My LeetCode Solutions in C++(primary) and java and SQL(MySQL)
